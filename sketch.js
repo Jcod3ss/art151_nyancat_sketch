@@ -21,7 +21,7 @@ let colors = [
   [150, 150, 150], // grey 
   [100, 100, 100], // darker grey 
   [255, 182, 193], // pink 
-  [255, 20, 180], // hot pink 
+  [255, 20, 180], // hot pink // added another number
   [255, 228, 181], // beige 
   [0, 0, 0],       // black 
   [255, 255, 255]  // white 
